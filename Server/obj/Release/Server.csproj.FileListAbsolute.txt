@@ -1,0 +1,11 @@
+C:\Users\User\Documents\광운대 3학년 1학기\응용소프트웨어실습\[HW2]2014707040_YJH\Server\bin\Release\Server.exe.config
+C:\Users\User\Documents\광운대 3학년 1학기\응용소프트웨어실습\[HW2]2014707040_YJH\Server\bin\Release\Server.exe
+C:\Users\User\Documents\광운대 3학년 1학기\응용소프트웨어실습\[HW2]2014707040_YJH\Server\bin\Release\Server.pdb
+C:\Users\User\Documents\광운대 3학년 1학기\응용소프트웨어실습\[HW2]2014707040_YJH\Server\bin\Release\Packet.dll
+C:\Users\User\Documents\광운대 3학년 1학기\응용소프트웨어실습\[HW2]2014707040_YJH\Server\bin\Release\Packet.pdb
+C:\Users\User\Documents\광운대 3학년 1학기\응용소프트웨어실습\[HW2]2014707040_YJH\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\광운대 3학년 1학기\응용소프트웨어실습\[HW2]2014707040_YJH\Server\obj\Release\Server.frmServer.resources
+C:\Users\User\Documents\광운대 3학년 1학기\응용소프트웨어실습\[HW2]2014707040_YJH\Server\obj\Release\Server.Properties.Resources.resources
+C:\Users\User\Documents\광운대 3학년 1학기\응용소프트웨어실습\[HW2]2014707040_YJH\Server\obj\Release\Server.csproj.GenerateResource.Cache
+C:\Users\User\Documents\광운대 3학년 1학기\응용소프트웨어실습\[HW2]2014707040_YJH\Server\obj\Release\Server.exe
+C:\Users\User\Documents\광운대 3학년 1학기\응용소프트웨어실습\[HW2]2014707040_YJH\Server\obj\Release\Server.pdb

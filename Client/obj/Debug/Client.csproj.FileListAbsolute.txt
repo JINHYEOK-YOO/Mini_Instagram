@@ -1,0 +1,2 @@
+C:\Users\User\Documents\광운대 3학년 1학기\응용소프트웨어실습\1 (View 기능 O)\[HW2]2014707040_YJH\Client\bin\Debug\Client.exe
+C:\Users\User\Documents\광운대 3학년 1학기\응용소프트웨어실습\1 (View 기능 O)\[HW2]2014707040_YJH\Client\bin\Debug\Packet.dll
